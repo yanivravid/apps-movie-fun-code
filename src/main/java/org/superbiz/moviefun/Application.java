@@ -47,4 +47,5 @@ public class Application {
 
         return new S3Store(s3Client, s3BucketName);
     }
+
 }
